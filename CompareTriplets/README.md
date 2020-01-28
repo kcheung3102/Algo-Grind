@@ -15,9 +15,12 @@ if a[i] = b[i], then neither person receives a point
 1<= b[i] <= 100
 
 **Example Output**
+
 5 6 7
+
 3 6 10
 
 **Example Output**
+
 1 1
 
