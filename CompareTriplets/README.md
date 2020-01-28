@@ -11,7 +11,9 @@ if a[i] < b[i], then Bob is awarded 1 point
 if a[i] = b[i], then neither person receives a point
 
 **Constraints**
+
 1 <= a[i] <= 100
+
 1<= b[i] <= 100
 
 **Example Output**
